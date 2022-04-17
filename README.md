@@ -1,4 +1,4 @@
-# Deep-Learning-Paper-Presentations
+# Deep Learning Paper Presentations
 
 Created an in-depth presentation of 5 recent Deep Learning research papers. 
 
